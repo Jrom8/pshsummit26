@@ -1,0 +1,1 @@
+For all code and references please go to where the repository lives here: https://github.com/franklesniak/GloryRole
